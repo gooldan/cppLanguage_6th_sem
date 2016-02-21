@@ -25,5 +25,5 @@ int main()
 		a[i] = i+1;
 	}
 	int t = search(a, &a[1000]);
-	cin >> t;
+	cout << t;
 }
