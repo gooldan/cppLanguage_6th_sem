@@ -4,7 +4,7 @@ using namespace std;
 void sqr(int *x)
 {
 	int t = *x;
-	*x = t*t;
+	*x = t*2;
 }
 int main()
 {
