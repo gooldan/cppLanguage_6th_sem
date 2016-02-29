@@ -16,6 +16,6 @@ int main()
 	int a[15];
 	for (int i = 0; i < 15; ++i)
 		a[i] = i;
-	reverse(a, a + 15);
+	reverse(a, a + 14);
 	return 0;
 }
